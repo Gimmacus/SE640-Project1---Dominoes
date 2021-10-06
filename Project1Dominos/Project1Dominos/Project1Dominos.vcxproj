@@ -149,10 +149,12 @@
   <ItemGroup>
     <ClInclude Include="CDominoes.h" />
     <ClInclude Include="CDominoesAPI.h" />
+    <ClInclude Include="CGameAPIBase.h" />
+    <ClInclude Include="CGamePieceBase.h" />
     <ClInclude Include="CPlayer.h" />
     <ClInclude Include="CRandom.h" />
     <ClInclude Include="CTable.h" />
-    <ClInclude Include="CTableInterface.h" />
+    <ClInclude Include="CTableBase.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

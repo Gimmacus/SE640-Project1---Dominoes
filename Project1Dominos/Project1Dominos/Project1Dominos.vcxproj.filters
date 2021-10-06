@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="SuperClasses">
+      <UniqueIdentifier>{371521e3-131e-4b20-bcc1-b1e2ace1cb3f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Project1Dominos.cpp">
@@ -50,8 +53,14 @@
     <ClInclude Include="CDominoesAPI.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="CTableInterface.h">
-      <Filter>Header Files</Filter>
+    <ClInclude Include="CTableBase.h">
+      <Filter>SuperClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="CGamePieceBase.h">
+      <Filter>SuperClasses</Filter>
+    </ClInclude>
+    <ClInclude Include="CGameAPIBase.h">
+      <Filter>SuperClasses</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -1,0 +1,35 @@
+﻿  CDominoes.cpp
+  CDominoesAPI.cpp
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CDominoesAPI.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CDominoesAPI.cpp(122,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CDominoesAPI.cpp(145,20): warning C4018: '<': signed/unsigned mismatch
+  CPlayer.cpp
+  CRandom.cpp
+  CTable.cpp
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(66,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(240,20): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(313,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(319,43): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(334,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(340,43): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(367,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(373,44): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(388,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(394,44): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(416,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(421,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CRandom.cpp(51,18): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CRandom.cpp(48): message : while compiling class template member function 'int CRandom<CDominoes *>::determineStartingPosition(int,int)'
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(187): message : see reference to function template instantiation 'int CRandom<CDominoes *>::determineStartingPosition(int,int)' being compiled
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.h(126): message : see reference to class template instantiation 'CRandom<CDominoes *>' being compiled
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CRandom.cpp(30,15): warning C4244: '=': conversion from 'time_t' to 'int', possible loss of data
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CRandom.cpp(29): message : while compiling class template member function 'void CRandom<CDominoes *>::setSeed(void)'
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CRandom.cpp(12): message : see reference to function template instantiation 'void CRandom<CDominoes *>::setSeed(void)' being compiled
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CRandom.cpp(10): message : while compiling class template member function 'CRandom<CDominoes *>::CRandom(void)'
+C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Project1Dominos\CTable.cpp(6): message : see reference to function template instantiation 'CRandom<CDominoes *>::CRandom(void)' being compiled
+  Project1Dominos.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 527 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Project1Dominos.vcxproj -> C:\Users\Shawn.Eidem\Documents\SCSU\SE640\Project1Dominos\SE640-Project1---Dominoes\Project1Dominos\Release\Project1Dominos.exe
